@@ -1,6 +1,6 @@
 # CS501-Nesrine-Hadjamar
 **Computer Science-501: Deep Learning Complete Course**
-# Author
+## Author
  **Hadj amar Nesrine**
 - This repository contains assignments and exercises related to the **CS501: Deep Learning Complete Course**. Throughout the course, I will be adding solutions, projects, and code related to various topics within deep learning, helping to deepen the understanding of deep learning concepts and techniques.
 ## Repository Structure:
